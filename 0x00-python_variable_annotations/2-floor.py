@@ -7,4 +7,6 @@ import math
 
 
 def floor(n: float) -> int:
+    """Method
+    """
     return math.floor(n)

@@ -11,4 +11,6 @@ import math
 
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
+    """Method
+    """
     return (k, (v * v))
